@@ -6,7 +6,7 @@ This is fork from https://github.com/dctabuyz/Yandex-API-PDD.ruby
   http://pdd.yandex.ru/help
 
 # Installation
-    $ gem install little_sms
+    $ gem install yandex-pdd
     bundle install
 
 # Usage    
